@@ -1,0 +1,4 @@
+{
+  "service_name": "test-core-service",
+  "port": "8080"
+}
